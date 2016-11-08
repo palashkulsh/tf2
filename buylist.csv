@@ -1,0 +1,30 @@
+isCraftable,itemClass,dataLevel,dataListingOffersUrl,dataPaintPrice,title,dataPaintName,orderType,dataPrice,listingPrice,dataQName,isTradable,quality
+1,Spy,33,https://steamcommunity.com/tradeoffer/new/?partner=173686818&token=IhQWwO1C,,Strange A Hat to Kill For,,1,13,12.88 ref,Strange,1,11
+1,Spy,14,,5.66 ref,Strange A Hat to Kill For,,1,15.83,13 ref,Strange,1,11
+1,Spy,8,https://steamcommunity.com/tradeoffer/new/?partner=11619372&token=QiX_W6VA,,Strange A Hat to Kill For,,1,13,13.66 ref,Strange,1,11
+1,Spy,28,https://steamcommunity.com/tradeoffer/new/?partner=55610524&token=efxVzipm,,Strange A Hat to Kill For,,1,13,1 key,Strange,1,11
+1,Spy,36,https://steamcommunity.com/tradeoffer/new/?partner=68808796&token=U3eavLRc,1 key,Strange A Hat to Kill For,,1,22.5,1 key,Strange,1,11
+1,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=315248299&token=M6aqiU-Y,,Strange A Hat to Kill For,,0,13,12 ref,Strange,1,11
+1,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=38443663&token=9IIzIBDf,,Strange A Hat to Kill For,,0,13,12 ref,Strange,1,11
+1,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=289713360&token=n33nDJ1G,,Strange A Hat to Kill For,,0,13,12 ref,Strange,1,11
+1,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=51056124&token=IkNLBgEP,,Strange A Hat to Kill For,,0,13,11 ref,Strange,1,11
+dataId,itemClass,dataLevel,dataListingOffersUrl,dataPaintPrice,isCraftable,dataPaintName,orderType,title,dataPrice,listingPrice,dataQName,isTradable,quality
+4833694045,Spy,33,https://steamcommunity.com/tradeoffer/new/?partner=173686818&token=IhQWwO1C,,1,,1,Strange A Hat to Kill For,13,12.88 ref,Strange,1,11
+4754507915,Spy,14,,5.66 ref,1,,1,Strange A Hat to Kill For,15.83,13 ref,Strange,1,11
+4820434215,Spy,8,https://steamcommunity.com/tradeoffer/new/?partner=11619372&token=QiX_W6VA,,1,,1,Strange A Hat to Kill For,13,13.66 ref,Strange,1,11
+4760137374,Spy,36,https://steamcommunity.com/tradeoffer/new/?partner=68808796&token=U3eavLRc,1 key,1,,1,Strange A Hat to Kill For,22.5,1 key,Strange,1,11
+4799269400,Spy,28,https://steamcommunity.com/tradeoffer/new/?partner=55610524&token=efxVzipm,,1,,1,Strange A Hat to Kill For,13,1 key,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=289713360&token=n33nDJ1G,,1,,0,Strange A Hat to Kill For,13,12 ref,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=315248299&token=M6aqiU-Y,,1,,0,Strange A Hat to Kill For,13,12 ref,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=38443663&token=9IIzIBDf,,1,,0,Strange A Hat to Kill For,13,12 ref,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=51056124&token=IkNLBgEP,,1,,0,Strange A Hat to Kill For,13,11 ref,Strange,1,11
+dataId,itemClass,dataLevel,dataListingOffersUrl,dataPaintPrice,isCraftable,dataPaintName,orderType,availableQty,dataPrice,listingPrice,dataOrigin,title,dataQName,isTradable,quality
+4833694045,Spy,33,https://steamcommunity.com/tradeoffer/new/?partner=173686818&token=IhQWwO1C,,1,,1,"1,476",13,12.88 ref,Found in Crate,Strange A Hat to Kill For,Strange,1,11
+4754507915,Spy,14,,5.66 ref,1,,1,"1,476",15.83,13 ref,Found in Crate,Strange A Hat to Kill For,Strange,1,11
+4820434215,Spy,8,https://steamcommunity.com/tradeoffer/new/?partner=11619372&token=QiX_W6VA,,1,,1,"1,476",13,13.66 ref,Found in Crate,Strange A Hat to Kill For,Strange,1,11
+4760137374,Spy,36,https://steamcommunity.com/tradeoffer/new/?partner=68808796&token=U3eavLRc,1 key,1,,1,"1,476",22.5,1 key,Found in Crate,Strange A Hat to Kill For,Strange,1,11
+4799269400,Spy,28,https://steamcommunity.com/tradeoffer/new/?partner=55610524&token=efxVzipm,,1,,1,"1,476",13,1 key,Found in Crate,Strange A Hat to Kill For,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=315248299&token=M6aqiU-Y,,1,,0,"1,476",13,12 ref,,Strange A Hat to Kill For,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=38443663&token=9IIzIBDf,,1,,0,"1,476",13,12 ref,,Strange A Hat to Kill For,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=289713360&token=n33nDJ1G,,1,,0,"1,476",13,12 ref,,Strange A Hat to Kill For,Strange,1,11
+,Spy,,https://steamcommunity.com/tradeoffer/new/?partner=51056124&token=IkNLBgEP,,1,,0,"1,476",13,11 ref,,Strange A Hat to Kill For,Strange,1,11
